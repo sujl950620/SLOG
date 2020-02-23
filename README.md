@@ -1,6 +1,16 @@
 # SLOG
 간단하고 최소한의 기능을 담은 블로그와 개인 블로그입니다.
 
+# Project Info
+## Project Info
+- 프로젝트 명 : SLOG(블로그)
+- 개발 기간 : 2019.12.20 ~ 2020.01.20
+- 참여 인원 : 1명
+- 담당 업무 : DB설계, 화면구현, 기능, 개발
+## Use Technology
+- 개발 환경 : Windows 10
+- 사용 도구 : Eclipse Kepler Release, OracleDeveloper
+- 사용 기술 : Java, oracle, jQuery, JSON, Ajax, HTML, CSS, JSP, XML
 # Preview 
 # Main 
 ![Main](https://user-images.githubusercontent.com/58777597/75105844-0f2feb00-565c-11ea-9a9f-b54181cfc3c0.PNG)
